@@ -5,7 +5,7 @@ mongo:
   dbUrl: "https://awesome.uswest1.training-studio..mongodb"
   dbUserName : "dbUserName"
   dbPassword : "dbPassword11111111"
-  dbPaddsafso : "dassddfdfadaddsa111"
+  dbPadfadsfdsafso : "dassddfdfadfadsfdaddsa111"
 
 image:
   repository: sannrao/demo-devops-app
